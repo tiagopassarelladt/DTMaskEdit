@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/26 19:28:56.000.751,D:\Dropbox\Componentes\DTMaskEdit\DTMultEdit.dproj=D:\Dropbox\Componentes\DTMaskEdit\MeusComponentes.dproj</Transaction>
+    <Transaction>2021/12/28 08:16:23.000.361,D:\Dropbox\Componentes\DTMaskEdit\DTMultEdit.dproj=D:\Dropbox\Componentes\DTMaskEdit\DTMaskEdit.dproj</Transaction>
+    <Transaction>2021/12/28 08:16:39.000.650,D:\Dropbox\Componentes\DTMaskEdit\MultEdit.pas=D:\Dropbox\Componentes\DTMaskEdit\Maskedit.pas</Transaction>
+    <Transaction>2021/12/28 08:18:02.000.927,D:\Dropbox\Componentes\DTMaskEdit\MultEdit.Helpers.pas=D:\Dropbox\Componentes\DTMaskEdit\Maskedit.Helpers.pas</Transaction>
+    <Transaction>2021/12/28 09:53:58.000.398,D:\Dropbox\Componentes\DTMaskEdit\Maskedit.pas=D:\Dropbox\Componentes\DTMaskEdit\Mskedit.pas</Transaction>
+  </Transactions>
+</BorlandProject>

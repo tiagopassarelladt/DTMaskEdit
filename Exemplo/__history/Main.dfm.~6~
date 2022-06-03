@@ -1,0 +1,24 @@
+object MainForm: TMainForm
+  Left = 0
+  Top = 0
+  Caption = 'Exemplo MultEdit'
+  ClientHeight = 205
+  ClientWidth = 527
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poMainFormCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object lblStatus: TLabel
+    Left = 32
+    Top = 67
+    Width = 12
+    Height = 13
+    Caption = '...'
+  end
+end
